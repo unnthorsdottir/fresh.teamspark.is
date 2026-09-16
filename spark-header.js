@@ -2,7 +2,7 @@ class MyHeader extends HTMLElement {
   connectedCallback() {
     this.innerHTML = `
       <header>
-        <img src="IMG_P755.png" class="title"></img>
+        <img src="https://teamspark.is/img/logo/SPARK_logo_white-purp.png" class="title"></img>
         <nav class="main-nav">
 			<a href="#"><h1>Bílar</h1></a>
 			<a href="#"><h1>Styrktaraðilar</h1></a>
