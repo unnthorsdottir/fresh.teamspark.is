@@ -1,2 +1,2 @@
 # fresh.teamspark.is
-Nýr vefur fyrir Team Spark &amp; wiki refresh
+Nýr [vefur](https://unnthorsdottir.github.io/fresh.teamspark.is/index.html) fyrir Team Spark &amp; wiki refresh
