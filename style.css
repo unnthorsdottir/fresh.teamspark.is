@@ -1,8 +1,10 @@
+*{
+	margin:auto;
+}
 .title{
 	color: red;
-	height: 60px;
+	height: 250px;
 	text-align: center;
-	
 	font-family: Arial;
 }
 .main-nav{
@@ -17,4 +19,24 @@
 		padding-top: 20px;
 		padding-bottom: 10px;
 	}
+}
+header{
+	background-color:black;
+}
+.logo{
+	display:flex;
+	justify-content:center;
+}
+img{
+	margin:auto;
+}
+.main-nav a{
+	text-decoration: none;
+	color:white;
+	font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.fjalla-one-regular {
+  
 }
